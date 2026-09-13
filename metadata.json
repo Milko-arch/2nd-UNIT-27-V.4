@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix  v. 4 SECOND GRADE UNIT 27",
+  "description": "Interactive English learning adventure with spelling missions, phrases, and vocabulary quests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
